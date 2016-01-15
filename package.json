@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-es2015-ie9below",
-  "version": "0.1",
+  "version": "0.0.1",
   "description": "Babel preset for all es2015 plugins. but only supports ie9 below ie browser(ie7, 8)",
   "author": "leezhaoyun <leezhaoyun@gmail.com>",
   "homepage": "https://babeljs.io/",
