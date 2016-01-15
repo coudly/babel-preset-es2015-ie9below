@@ -1,11 +1,11 @@
 # babel-preset-es2015-ie9below
 
-> Babel preset for all es2015 plugins, but loosely supports IE9 below IE browser(ie7, 8) [1]
+> Babel preset for all es2015 plugins, but loosely supports IE9 below IE browser(ie7, 8) [refer.][1]
 
 | supported | plugin |
 | ---------:| ------ |
 |  &#x2714; | babel-plugin-transform-es2015-template-literals |
-|  &#x2716; | babel-plugin-transform-es2015-literals |
+|  &#x2714; | babel-plugin-transform-es2015-literals |
 |  &#x2714; | babel-plugin-transform-es2015-function-name |
 |  &#x2714; | babel-plugin-transform-es2015-arrow-functions |
 |  &#x2714; | babel-plugin-transform-es2015-block-scoped-functions |
@@ -60,4 +60,4 @@ require("babel-core").transform("code", {
 ```
 
 
-[1] https://github.com/ouvens/ecmaScript-2015-babel-rules
+[1]: https://github.com/ouvens/ecmaScript-2015-babel-rules  "ecmaScript-2015-babel-rules"
